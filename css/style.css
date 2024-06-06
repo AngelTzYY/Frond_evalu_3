@@ -33,7 +33,7 @@ body {
 }
 
 label {
-    color: #fff;
+    color: #fff !important;
 }
 
 @media (min-width: 768px) {
